@@ -15,7 +15,7 @@
   ##
  
 <div> 
-  <img src="https://img.shields.io/badge/-Nullified/%233306-V63F7?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/-Nullified%233306-5663F7?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
   ![](https://github.com/Gittified/Gittified/blob/output/github-contribution-grid-snake.svg)
  
